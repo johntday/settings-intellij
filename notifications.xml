@@ -1,0 +1,10 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="[y] outdated project" shouldReadAloud="true" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="External System Auto-Link Notification Group" />
+    <notification groupId="JRebel non-sticky" displayType="NONE" />
+    <notification groupId="JRebel sticky" displayType="NONE" />
+    <notification groupId="Spring Configuration Check" />
+  </component>
+</application>

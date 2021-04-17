@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*solr*</mask>
+    <mask>*Service.java</mask>
+    <mask>*-bean</mask>
+    <mask>*-beans.xml</mask>
+    <mask>*-spring.xml</mask>
+    <mask>*-backoffice-config.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>hot*</mask>
+    <mask>*Controller.java</mask>
+    <mask>*.java</mask>
+    <mask>*.impex</mask>
+    <mask>*.groovy</mask>
+    <mask>*-items.xml</mask>
+  </component>
+</application>
