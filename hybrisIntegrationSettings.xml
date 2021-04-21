@@ -1,7 +1,7 @@
 <application>
   <component name="HybrisApplicationSettings">
     <option name="allowSendingStatistics" value="false" />
-    <option name="lastPluginVersionReleaseNotesShownToUser" value="2020.3.2.0" />
+    <option name="lastPluginVersionReleaseNotesShownToUser" value="2021.1.3.0" />
     <option name="scanThroughExternalModule" value="true" />
     <option name="suspendPluginUpdateForVersion" value="2020.3.1.0" />
   </component>
